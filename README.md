@@ -1,2 +1,2 @@
 # techiekarthik.in
-Source code of my website.
+Source code of techiekathik.in
